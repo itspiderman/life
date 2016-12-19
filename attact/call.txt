@@ -4,3 +4,5 @@ http://www.hsn128.com/
 http://www.jb51.net/softs/133015.html
 3. 
 SchedCall (auto outgoing call)
+4.这个程序配上网络电话就会变成
+http://blog.csdn.net/xwebsite/article/details/6897515
