@@ -14,3 +14,7 @@ Android 4.0 and earlier - Open the Settings app, tap Call, tap "Additional setti
 Android 4.1 and later - Open the Phone app, tap the Menu button, tap "Call settings", tap Caller ID, tap "Hide number".[2]
 Windows Phone 8 - Open the Phone app, tap the More button (...), tap "settings", tap the box under "Show my caller ID to", tap "no one" or "my contacts".[3]
 BlackBerry - Press the Menu key, click Options, click General Options, find the Restrict My Identity field, set it to Always.
+
+6. hide number
+Caller ID Faker
+Fake Caller ID
