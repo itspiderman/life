@@ -6,9 +6,10 @@ aj5
 @aliyun-five
 
 4.my aiai
-agent code:
+上级编号
+经销商编号:
 41602151292
-member id: 
+来艾号: 
 352025
 
 5.ym 
